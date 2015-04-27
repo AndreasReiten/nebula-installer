@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package>
+    <Name>com.nebula.root</Name>
+    <DisplayName>Nebula</DisplayName>
+    <Description>Software for reconstruction and visualization of scattering data.</Description>
+    <Version>0.1.0</Version>
+    <ReleaseDate>2015-04-21</ReleaseDate>
+    <Licenses>
+        <License name="GPL version 2" file="LICENSE.md" />
+    </Licenses>
+    <ForcedInstallation>true</ForcedInstallation>
+    <Default>true</Default>
+</Package>

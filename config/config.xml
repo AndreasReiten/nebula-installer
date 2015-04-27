@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Nebula</Name>
+    <Version>0.1.0</Version>
+    <Title>Nebula</Title>
+    <ProductUrl>https://github.com/Natnux/nebula</ProductUrl>
+    <InstallerWindowIcon>app.png</InstallerWindowIcon>
+    <Logo>logo.png</Logo>
+    <Watermark>watermark.png</Watermark>
+    <StartMenuDir>Nebula</StartMenuDir>
+    <TargetDir>@HomeDir@/Nebula</TargetDir>
+</Installer>
